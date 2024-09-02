@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://blog.bornamashayekh.ir/wp-content/uploads/2024/07/blog-icon-1.png" alt="borna's logo" width="270px" />
+  <img src="./logo.png" alt="borna's logo" width="270px" />
 </div>
 
 <div align='center'>
@@ -13,7 +13,7 @@
   
 <div>
   <h1>My Expertise</h1>
-  <img src='https://skillicons.dev/icons?i=html,css,javascript,git,github,ts,php,py,tailwindcss,bootstrap,sass,mysql,jquery,nodejs,wordpress,angular,ps' alt='Expertise'/>
+  <img src='https://skillicons.dev/icons?i=html,css,javascript,git,github,ts,php,py,tailwindcss,bootstrap,sass,mysql,jquery,nodejs,wordpress,angular,ps&perline=5' alt='Expertise'/>
 </div>
 
 <h1>My Social Network</h1>
