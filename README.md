@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./favicon.png" alt="borna's logo" width="270px" />
+  <img src="[./favicon.png](https://blog.bornamashayekh.ir/wp-content/uploads/2024/07/blog-icon-1.png)" alt="borna's logo" width="270px" />
 </div>
 
 <div align='center'>
