@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./logo.png" alt="borna's logo" width="270px" />
+  <img src="./favicon.png" alt="borna's logo" width="270px" />
 </div>
 
 <div align='center'>
