@@ -7,7 +7,7 @@
 [This is Borna Mashayekh🖐](https://bornmashayekh.ir)
 
 Joniur Web and AI developer 👀<br>What can i develop?🤔<br>Responsive websites<br>PWAs<br>IOS/Android application (using ionic)<br>Artificial intelligence 
-
+SEO 
 
 ## 🌐 Socials:
 
