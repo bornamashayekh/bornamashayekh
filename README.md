@@ -3,6 +3,9 @@
   <img src="./logo.png" alt="borna's logo" width="270px" />
 </div>
 <h1>💫 About Me:</h1>
+
+[This is Borna Mashayekh🖐](https://bornmashayekh.ir)
+
 Joniur Web and AI developer 👀<br>What can i develop?🤔<br>Responsive websites<br>PWAs<br>IOS/Android application (using ionic)<br>Artificial intelligence 
 
 
