@@ -12,7 +12,7 @@ Joniur Web and AI developer 👀<br>What can i develop?🤔<br>Responsive websit
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Bornamashayekh) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Borna%20mashayekh) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/borna-mashayekh-11b844323) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BornaMashayekh) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?style=flat&logo=telegram&logoColor=white)](https://t.me/borna_mashayekh)
 
