@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./logo.png" alt="borna's logo" width="270px" />
+  <img src="./profile.png" alt="borna's logo" width="270px" />
 </div>
 <h1>💫 About Me:</h1>
 
